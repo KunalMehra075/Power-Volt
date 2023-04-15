@@ -2,7 +2,7 @@
 Concepts Practice Website
 
 > - TypeScript
-> - React 
+> - React (Valid & Effiecent)
 > - Chakra UI 
 > - Material UI 
 > - Ant Design
